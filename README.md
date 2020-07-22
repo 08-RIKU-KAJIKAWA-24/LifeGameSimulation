@@ -1,5 +1,8 @@
 # lifegame
-pythonによるLifeGameの実装
+
+pythonによるLifeGameの実装  
+
+LifeGameとは言っても「人生ゲーム」のことではないです!
 
 
 === about LifeGame ===  
